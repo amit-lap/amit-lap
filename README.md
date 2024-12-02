@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I'm Amit Lap ([@amit-lap](https://github.com/amit-lap)), a passionate software developer and a B.Sc. Computer Science with a strong interest in Web Development, Python and Test Automation.
+I'm Amit Lap ([@amit-lap](https://github.com/amit-lap)), a technology and SW enthusiast and a B.Sc. Computer Science Graduate with a strong interest in development, Python, Computer Science concepts and QA & Automation.
 
 ### About Me
 
-- 💻 **Developer:** Skills: web technologies: HTML, JavaScript and React. additional skills: Python, Java and Test Automation Frameworks.
-- 🎓 **Computer Science Degree:** Learned many interesting courses like: Web Development, Python + Advanced Python excellence course, Software Testing & Automation and more.
+- 💻 **Skills:** C++, Java, Python, OOP, Test Automation Frameworks, JavaScript, React, SQL.
+- 🎓 **Computer Science Degree:** Learned many interesting courses like: Python + Advanced Python excellence course, Software Testing & Automation, Web Development, Data Structures, Algorithms, OS and more.
 - 📚 **Lifelong Learner:** Constantly improving my skills through new projects and courses.
 
 ### Get in Touch
